@@ -1,4 +1,9 @@
-## Hi there 👋
+# PROFILE README
+i have edited it
+
+## FUN FACT'S
+there is no grass
+the horse eated it all
 
 <!--
 **ajt1528/ajt1528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
